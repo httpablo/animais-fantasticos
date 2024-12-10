@@ -22,3 +22,6 @@ initMenuMobile();
 initFuncionamento();
 initFetchAnimais();
 initFetchBitcoin();
+
+import $ from 'jquery';
+import _ from 'lodash';
